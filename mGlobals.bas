@@ -57,7 +57,7 @@ Public gTcEinde As Long                 ' einde voor timer
 ' ------------------------------------------------------------
 Public Const gsATLAS As String = "Allerhande Tools ter Lichtere Arbeid van de Speurder..."
 Public Const gsAPP As String = "GERARD"
-Public Const gsVER As String = " v2.72"
+Public Const gsVER As String = " v2.73"
 Public Const gsBUILD As String = "001"
 Public Const gsCOPYRIGHT As String = "(c) Luc S. apr 2017 - jul 2019"
 Public Const gsINFO As String = "Gericht Efficiënt Rechercheren" & vbCrLf & _

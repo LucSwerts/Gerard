@@ -60,6 +60,7 @@ Attribute VB_Name = "m___info"
 ' 02.64         2019-06-18              Refactoring en boilerplate code
 ' 02.66         2019-07-02              handleiding schrijven en minimale Refactoring
 ' 02.67         2019-07-03              indeling Ribbon herschikt
+' 02.73         2019-07-23              + mGit, + ExportCode
 
 ' TODO: Tandem opbouwen op basis van alle Sets of alleen die in Schema
 ' TODO: gebruik techniek van Zoom
